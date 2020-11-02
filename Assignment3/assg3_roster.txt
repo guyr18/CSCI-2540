@@ -1,0 +1,6 @@
+112,John,Senior,Math
+100126,John Smith,junior,CS
+166908,Adam Wong,freshman,CS
+265812,Emily Washington,freshman,Math
+366010,Mark Baker,junior,Math
+526045,Sandra King,senior,CS
