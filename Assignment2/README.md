@@ -6,7 +6,7 @@ used in banking today. This application introduces the concept of I/O using the 
 and accepts user input; namely an account number. 
 
 Furthermore, input is read from a text file and a list of Account data is created. Lastly, this
-application models an account lookup search similar to one that you might in professional database
+application models an account lookup search similar to one that you might in a professional database
 such as MySQL, MongoDB, or PostegreSQL. 
 
 # Purpose
