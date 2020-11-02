@@ -1,8 +1,9 @@
-"# CSCI-2530" 
-# CSCI-2530
-# Background Information & Purpose
-This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2530.
-This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
-my familiarity of common data structures, memory control, and other algorithms.
+"# CSCI-2540" 
+# CSCI-2540
+# Assignment 1
+Assignment 1 required students to simulate a banking account transaction. Multiple classes were designed
+in order to display the characteristics of a general banking account, a savings account, and a checkings account.
 
-All coursework is completed in C++ using the GNU Compiler.
+# Purpose
+The purpose of this assignment was to enable us as students to see method overloading, method overriding, and
+object inheritance in action. 
