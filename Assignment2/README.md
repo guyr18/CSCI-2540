@@ -1,4 +1,3 @@
-"# CSCI-2540" 
 # CSCI-2540
 # Assignment 2
 Assignment 2 required students to further extend the concept of the transaction simulation model
