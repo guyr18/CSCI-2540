@@ -1,4 +1,3 @@
-"# CSCI-2540" 
 # CSCI-2540
 # Assignment 1
 Assignment 1 required students to simulate a banking account transaction. Multiple classes were designed
