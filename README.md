@@ -1,4 +1,3 @@
-"# CSCI-2540" 
 # CSCI-2540
 CSCI 2540 is a continuation of CSCI 2530, and a more advanced and intuitive course on Data Structures & Algorithms.
 This course advanced from a structural style of computer programming to one that has a heavy dependence on objects and classes.
