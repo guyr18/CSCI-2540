@@ -21,8 +21,8 @@ is included in the value as it is replaced with the appropriate character
 in my algorithm.
 
 0 => "Syntax error occurred at _. Consecutive operands are not allowed."
-  Example: 5 5 + 
-  Reason: Operands can not be consecutive. In an in-fix expression, 
+   Example: 5 5 + 
+   Reason: Operands can not be consecutive. In an in-fix expression, 
           binary operators should occur between a given set of operands.
           
 1 => "Syntax error occurred at _. Alphabetic characters are not allowed."
