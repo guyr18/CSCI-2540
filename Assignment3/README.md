@@ -1,8 +1,14 @@
-"# CSCI-2530" 
-# CSCI-2530
-# Background Information & Purpose
-This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2530.
-This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
-my familiarity of common data structures, memory control, and other algorithms.
+ # CSCI-2540
+# Assignment 4
+Assignment 4 reads input from a source text file and is responsible for a variety of
+functions that include, but are not limited to insertion, lookup, deletion, and
+filtering of a collection of objects. This assignment was designed to allow
+and test each students ability to use the List interface; specifically ArrayList.
 
-All coursework is completed in C++ using the GNU Compiler.
+This application is representative of a collection of students with the following properties:
+  1. ID
+  2. Name
+  3. Standing (Freshman -> Senior)
+  4. Academic Major.
+  
+  
