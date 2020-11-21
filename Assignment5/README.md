@@ -1,8 +1,10 @@
-"# CSCI-2530" 
-# CSCI-2530
-# Background Information & Purpose
-This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2530.
-This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
-my familiarity of common data structures, memory control, and other algorithms.
+# CSCI-2540
+# Assignment 5
+Assignment 5 gave students practice with binary search trees. Several of the files in this assignment were implementations  
+that can be found in 
 
-All coursework is completed in C++ using the GNU Compiler.
+  Data Structures and Abstractions with Java, Fifth Edition, with Timothy M. Henry. Pearson Education, 2019.
+  
+This assignment required us to implement inserting, searching, deleting and filtering of java objects by using
+a binary search tree. These java objects were read in from a text file and then the before-mentioned functionality
+was implemented through a standard console input menu.
