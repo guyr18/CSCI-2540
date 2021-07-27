@@ -4,7 +4,7 @@ This course advanced from a structural style of computer programming to one that
 Furthermore, this course introduced the concepts of data abstraction and object-oriented programming.
 
 # Background Information & Purpose
-This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2540.
+This repository represents the coursework (programming assignments) that I have completed throughout CSCI 2540.
 This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
 my familiarity of common data structures, data abstraction, and an object-oriented approach to computer programming.
 
