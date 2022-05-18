@@ -62,6 +62,24 @@ in my algorithm.
           of such operators could be the modulus (%), bitwise operators   
           and various others.   
           
+# Compiling This Application
+To compile this application, you will need to clone the repository. Then you can navigate to the **src** folder like-wise:
+
+```
+cd Assignment4/src
+```
+Subsequently, you may compile the **CalculatorDemo.java** file.
+
+```
+javac assg4_guyr18/CalculatorDemo.java
+```
+
+Lastly, you will be able to now run the application:
+
+```
+java assg4_guyr18/CalculatorDemo
+```
+
 # Points of Emphasis
 I. This application does not support floating point numbers as input.   
 II. This application only supports positive integers; thus, negative   
