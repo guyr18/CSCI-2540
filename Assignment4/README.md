@@ -1,4 +1,12 @@
 # CSCI-2540
+
+# Demo Video
+
+
+
+https://user-images.githubusercontent.com/46636441/169264432-fcc3ce63-41c7-41e3-8300-b00c696758d5.mp4
+
+
 # Assignment 4
 Assignment 4 required students to implement an application resembling a calculator. 
 This calculator was required to take an in-fix expression from the designated input
